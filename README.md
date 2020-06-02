@@ -8,6 +8,6 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example Case](iso-outside.jpg)
-![Example Case](iso-inside.jpg)
+<img src="iso-outside.jpg" width="500" align="center"> 
+<img src="iso-inside.jpg" width="500" align="center"> 
 
